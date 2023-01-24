@@ -1,7 +1,7 @@
 import openai
 
 # Add your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 def generate_text(prompt):
     completions = openai.Completion.create(
