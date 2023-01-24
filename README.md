@@ -5,7 +5,7 @@ desc: ''
 updated: 1674586214764
 created: 1674586214764
 ---
-# notes
+# Welcome to Devops ChatGPT Fun
 This is sample code to illustrate how to use chatgpt API and dockerize it in container and deploy it on kubernestes cluster 
 
 Pre-requisite
