@@ -1,3 +1,10 @@
+---
+id: g2ye3bmmt1em54kdhmhbni0
+title: README
+desc: ''
+updated: 1674586214764
+created: 1674586214764
+---
 # notes
 This is sample code to illustrate how to use chatgpt API and dockerize it in container and deploy it on kubernestes cluster 
 
